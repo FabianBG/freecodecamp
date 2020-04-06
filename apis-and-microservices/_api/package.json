@@ -2,8 +2,10 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Fabian Bastidas",
 	"description": "API micro services with express js",
+	"keywords": [ "rest", "express", "api" ],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,5 +17,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/FabianBG/freecodecamp.git"
-	}
+	},
+	"version": "1.0.0",
+	"license": "MIT"
 }
