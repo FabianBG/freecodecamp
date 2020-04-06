@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "FAbian Bastidas",
+	"author": "Fabian Bastidas",
+	"description": "API services with express js",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
