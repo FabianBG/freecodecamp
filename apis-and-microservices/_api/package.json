@@ -5,7 +5,7 @@
 	"keywords": [ "rest", "express", "api" ],
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.24.0"
 	},
 	"main": "server.js",
 	"scripts": {
